@@ -1,0 +1,38 @@
+﻿  ChangeForm.cpp
+c:\users\vuser\source\repos\kursach\kursach\popupform.h(21): warning C4677: PopupForm: сигнатура члена, не являющегося частным, содержит частный тип сборки "Worker"
+  c:\users\vuser\source\repos\kursach\kursach\myclass.h(10): note:  см. объявление "Worker"
+c:\users\vuser\source\repos\kursach\kursach\popupform.h(42): warning C4677: package: сигнатура члена, не являющегося частным, содержит частный тип сборки "Worker"
+  c:\users\vuser\source\repos\kursach\kursach\myclass.h(10): note:  см. объявление "Worker"
+c:\users\vuser\source\repos\kursach\kursach\popupform.h(228): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  MyForm.cpp
+c:\users\vuser\source\repos\kursach\kursach\popupform.h(21): warning C4677: PopupForm: сигнатура члена, не являющегося частным, содержит частный тип сборки "Worker"
+  c:\users\vuser\source\repos\kursach\kursach\myclass.h(10): note:  см. объявление "Worker"
+c:\users\vuser\source\repos\kursach\kursach\popupform.h(42): warning C4677: package: сигнатура члена, не являющегося частным, содержит частный тип сборки "Worker"
+  c:\users\vuser\source\repos\kursach\kursach\myclass.h(10): note:  см. объявление "Worker"
+c:\users\vuser\source\repos\kursach\kursach\popupform.h(228): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+c:\users\vuser\source\repos\kursach\kursach\changeform.h(111): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  PopupForm.cpp
+c:\users\vuser\source\repos\kursach\kursach\popupform.h(21): warning C4677: PopupForm: сигнатура члена, не являющегося частным, содержит частный тип сборки "Worker"
+  c:\users\vuser\source\repos\kursach\kursach\myclass.h(10): note:  см. объявление "Worker"
+c:\users\vuser\source\repos\kursach\kursach\popupform.h(42): warning C4677: package: сигнатура члена, не являющегося частным, содержит частный тип сборки "Worker"
+  c:\users\vuser\source\repos\kursach\kursach\myclass.h(10): note:  см. объявление "Worker"
+c:\users\vuser\source\repos\kursach\kursach\popupform.h(228): warning C4244: аргумент: преобразование "wchar_t" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  Создание кода...
+  ChangeForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Kursach.vcxproj -> C:\Users\vuser\source\repos\Kursach\Debug\Kursach.exe
